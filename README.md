@@ -1,5 +1,5 @@
 # Template
-
+ 
 This is the template book. You can use this book as a template to start your own TeachBook in as easy-as-possible a way.
 
 # Steps to use this template and publish it online
